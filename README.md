@@ -1,7 +1,7 @@
 # Financial-Power-Bi-Dashboard
 My Power BI financial dashboard offers a comprehensive view of our financial dataset, 
-providing a clear and insightful representation of our organization's financial performance.This interactive dashboard 
-empowers users to navigate through different years to gain deeper insights into specific financial periods.
+providing a clear and insightful representation of our organization's financial performance.This interactive 
+dashboard empowers users to navigate through different years to gain deeper insights into specific financial periods.
 
 # Overview:
 Upon opening the dashboard, users are greeted with an all-encompassing overview of our financial data. Key 
